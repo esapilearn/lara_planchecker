@@ -10,7 +10,7 @@ namespace Lara_PlanChecker.ViewModels
             get { return _title; }
             set { SetProperty(ref _title, value); }
         }
-
+        //test a push
         public MainViewModel()
         {
 
